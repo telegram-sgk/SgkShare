@@ -32,12 +32,22 @@
 
 <br>
 
+### 暗精灵社工库
+
+🔍可查询：支持猎魔模糊查询
+
+地址: [@AJL_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
+
+备注：不强制要求推广后才能使用，每日签到可获取积分。
+
+<br>
+
 
 ### 小丑社工机器人（推荐）
 
 🔍可查询： **快递地址**、微信原始ID、手机机主、身份证信息、QQ/微博/LOL绑定、邮箱查找、同名查找、模糊找人
 
-地址: [@Joker_SGK](https://t.me/JokerSGKbot)
+地址: [@Joker_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：**无需签到，每天默认送两次免费查询机会**，超级综合检索系统，适用于模糊找人
 
@@ -48,7 +58,7 @@
 
 🔍可查询：泄漏的**学习通**学生信息，身份证信息，QQ绑定，微博绑定，快递，运营商、京东/淘宝快递、车牌车主、个人常用密码、Q群关系等数据。
 
-地址: [@TMD_sgk2023](http://t.me/sgk2023_03_30bot)
+地址: [@TMD_sgk2023](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：**无积分限制，只需间隔几分钟查询一次**。相当于无限查询次数，但缺点是未推广每次查询只能看部分信息。
 
@@ -61,8 +71,7 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@AISGK_](https://t.me/aishegongkubot?start=AISGK_ZL3E2L1A)
-[Botbot](http://t.me/aishegongkubot?start=AISGK_R8M44HA4)
+地址链接：[@AISGK_](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 
 
@@ -72,7 +81,7 @@
 
 🔍可查询：姓名、手机号、身份证号、户籍地址、快递地址、QQ/邮箱/微博等。据说包含**上海10e数据**
 
-地址: [@DingDangCat_SGK](https://t.me/DingDangCats_Bot?start=37bcb157be65527c)
+地址: [@DingDangCat_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：最强模糊查找功能，适合不知道准确信息的查询。每日签到获取积分，或者等不定时开启免费查询时间段，具体查看频道通知。
 
@@ -97,7 +106,7 @@
 
 🔍可查询：手机号、姓名、身份证、银行卡、邮箱、用户名、QQ 、微博ID、LOL昵称、贴吧、FaceBookID、WeChatID、TelegramID、企业名称、密码、域名、车牌
 
-地址链接：[@Botnet_SGK](https://t.me/BotnetSGKbot?start=NTcwODYxMT)
+地址链接：[@Botnet_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到可获取5积分
 
@@ -108,7 +117,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、邮箱、微博绑定、**学习通数据、WeChatID、支付宝模糊绑定**、银行卡
 
-地址: [@Ahu_SGK](https://t.me/Ahusgkbot)
+地址: [@Ahu_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：无需签到，每天自动获得3次免费查询机会
 
@@ -119,7 +128,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、微博绑定、**学习通数据、微信id数据、支付宝模糊绑定**、银行卡、同邮服、群关系、模糊找人
 
-地址: [@HePing_SGK](https://t.me/HePingSGKbot?start=1sAcj4H)
+地址: [@HePing_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 
 备注：每日签到获取2积分，每日两次免费查询机会。模糊找人功能。
@@ -130,7 +139,7 @@
 
 🔍可查询：身份户籍、开房记录、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、QQ、邮箱、网络账号、就职单位和银行开户等联系方式
 
-地址链接：[@Botnet_SGK](https://t.me/BeSGKbot?start=c1t2mTn)
+地址链接：[@Botnet_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到可获取2积分
 
@@ -141,7 +150,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、**快手订单数据**、WeChatID、QQ绑定、邮箱、户籍等等信息
 
-地址链接：[@PyramidNet_SGK](https://t.me/PyramidNetBot?start=62aIUy7b0z)
+地址链接：[@PyramidNet_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到可获取4积分
 
@@ -151,7 +160,7 @@
 
 🔍可查询：身份户籍、快递地址、贷款记录、车牌车主、个人常用密码、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式。
 
-地址: [@Space_SGK](https://t.me/SpaceSGK_bot?start=rwHuYEJOeI)
+地址: [@Space_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到可获取3次免费查询机会
 
@@ -162,7 +171,7 @@
 🔍可查询：同名查询、身份
 户籍、机主信息、快递地址、车牌车主、账号密码、QQ／贴吧／微博／LOL.／共享单车手机查绑、要素验证、同名联系方式、家庭地址等等
 
-地址: [@Iner_SGK](https://t.me/INERSGKBOT)
+地址: [@Iner_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到可获取5积分
 
@@ -174,7 +183,7 @@
 
 🔍可查询：TG账号注册时间，账号标签，用户名，加入的群聊名字及链接
 
-地址: [@STScan_Bot](https://t.me/STScanBot?start=yOXENUOSKG)
+地址: [@STScan_Bot](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：新用户限时赠送10积分， 一次查询完整结果消耗积分，查询失败不消耗积分
 
@@ -185,7 +194,7 @@
 
 🔍可查询 **群组关系**、身份证、手机号、邮箱、家庭住址、外卖信息、QQ绑定、微博绑定、户籍信息、同邮服等
 
-地址: [@SGK_ABOT](https://t.me/SGK_ABOT)
+地址: [@SGK_ABOT](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 **注册就送50积分，每日签到可获取5积分**，查询成功消耗1积分，可开高级功能短信轰炸、模糊查找。
 
@@ -194,7 +203,7 @@
 
 ### 狗狗免费社工机器人
 
-地址: [@DOG_SGK](https://t.me/DogeSGK_bot)
+地址: [@DOG_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到可获取积分，**二要素验证功能，验证身份证号和姓名是否真实对应**
 
@@ -205,7 +214,7 @@
 
 🔍可查询：QQ/微博绑定、手机机主、快递地址等等
 
-地址: [@DATA007_SGK](https://t.me/DATA_007bot)
+地址: [@DATA007_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：每日签到获取积分。
 
@@ -214,22 +223,14 @@
 
 ### 平安社工库
 
-地址: [@Pingan_SGK](https://t.me/pingansgk_bot)
+地址: [@Pingan_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：无需推广,无需积分。
 
 <br>
 
 
-### 暗精灵社工库
 
-🔍可查询：支持猎魔模糊查询
-
-地址: [@AJL_SGK](https://t.me/AJL01_bot)
-
-备注：不强制要求推广后才能使用，每日签到可获取积分。
-
-<br>
 
 ## 付费社工库
 
@@ -241,7 +242,7 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号|公司或店铺名称
 
-地址链接：[@AISGK_Bot](http://t.me/aishegongkubot?start=AISGK_4DQTJF6S)
+地址链接：[@AISGK_Bot](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 ***爱社工库付费解码：[@Crush_54](https://t.me/Crush_54)***
 
@@ -252,7 +253,7 @@
 
 🔍星盾社工库最新45亿电商数据：主要是用手机号或身份证号查 **快递信息**，将查出该手机号用户相关信息，包括但不限于：姓名，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名、收件日期<br>
 
-地址链接: [@XingDun_SGK](https://t.me/XingDun2Bot?start=cmBrpUd)
+地址链接: [@XingDun_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 <br>
 
 <br>
@@ -261,7 +262,7 @@
 
 🔍可查询：身份户籍、快递地址、贷款记录、车牌车主、个人常用密码、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式
 
-地址链接: [@MoLeLe_SGK](https://t.me/MoLeLeBot?start=clo762e2g01g3mo0uz1o6v7j1)
+地址链接: [@MoLeLe_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 <br>
 
