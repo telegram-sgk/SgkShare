@@ -267,12 +267,7 @@
 <br>
 
 
-## ✨其他工具✨
 
-### 手机短信轰炸
+### ✨新世界社工库✨
 
-免费使用，每日签到一次就可以获得5积分，可轰炸一个手机号5分钟。
-
-地址链接: [@云闹钟轰炸鸡](https://t.me/cloudAlarmClockBot)
-
-
+社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
