@@ -11,7 +11,13 @@
 
 ## 一、社工库网站
 
-### 1. LosePrivacy
+### 1 免费社工库导航
+
+
+一个收录超好用的免费社工库导航页，地址： <a href="https://www.shegongku.top/" target="_blank">https://www.shegongku.top/</a>。
+
+
+### 2. LosePrivacy
 
 🔍LosePrivacy 收录了全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了
 
