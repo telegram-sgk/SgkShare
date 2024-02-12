@@ -284,3 +284,10 @@
 号称拥有完整上海10亿，银联6.3亿，学习通1.2亿，地区全库，融合二要素11亿，抖音渗透数据，4399渗透数据。
 
 社工库地址: <a href="https://t.me/CrimeSGKbot?start=1180760062" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://www.4spaces.org/4890.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
+
+### ✨神龙综合社工机器人✨
+
+这个社工库用起来也很简单，进入神龙综合社工机器人之后，点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，返回速度还真快，只不过对返回的信息解锁需要一定的积分。可以通过邀请他人或充值的方式获得积分。
+
+
+社工库地址: <a href="https://t.me/SL_SGK_bot?start=HXuOvpqE6f" target="_blank">@SL_SGK_bot</a>。使用详情：<a href="https://www.4spaces.org/4777.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 神龙综合社工机器人</a>。
