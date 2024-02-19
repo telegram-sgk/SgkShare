@@ -289,11 +289,21 @@
 
 号称拥有完整上海10亿，银联6.3亿，学习通1.2亿，地区全库，融合二要素11亿，抖音渗透数据，4399渗透数据。
 
-社工库地址: <a href="https://t.me/CrimeSGKbot?start=1180760062" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://www.4spaces.org/4890.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://www.4spaces.org/4890.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
 
 ### ✨神龙综合社工机器人✨
 
 这个社工库用起来也很简单，进入神龙综合社工机器人之后，点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，返回速度还真快，只不过对返回的信息解锁需要一定的积分。可以通过邀请他人或充值的方式获得积分。
 
 
-社工库地址: <a href="https://t.me/SL_SGK_bot?start=HXuOvpqE6f" target="_blank">@SL_SGK_bot</a>。使用详情：<a href="https://www.4spaces.org/4777.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 神龙综合社工机器人</a>。
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@SL_SGK_bot</a>。使用详情：<a href="https://www.4spaces.org/4777.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 神龙综合社工机器人</a>。
+
+### ✨黑盒-𝑩𝒍𝒂𝒄𝒌 𝑩𝑶𝑿 -社工库✨
+
+超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分，本机器人支持：快递,开房,车主,机主,户籍,身份证,手机,邮箱,账号,密码等社工库查询、QQ查绑/贴吧查绑/英雄联盟查QQ手机姓名/微博查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、姓名查身份证号码（猎魔）等。
+
+使用时直接发送手机号、QQ等信息查询即可。
+
+
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BOXsgkbot</a><a href="https://www.4spaces.org/4942.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
+
