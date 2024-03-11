@@ -347,3 +347,9 @@
 社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@baidusell_bot</a>。
 
 
+### ✨海燕系统-车辆查询系统✨
+
+车牌号查询社工库，直接发送车牌号即可。
+
+社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@HYXT_bot</a>。
+
