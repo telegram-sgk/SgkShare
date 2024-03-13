@@ -353,3 +353,15 @@
 
 社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@HYXT_bot</a>。
 
+
+### 滴滴社工库
+
+此社工库已跑路，目前这个账号应该又被人接手了，可根据手机号、身份证号、QQ 号、微博主页地址进行查询。查询出的信息非常少，关键它还好意思收费，免费的都比它这个查出的信息全，烂货一个，大家别用~
+
+<img src="https://img.yomige.org/file/3ae007a9c351bab45039b.jpg">
+
+
+<img src="https://img.yomige.org/file/dcff33959d1fca592304f.jpg">
+
+
+社工库地址：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DiDiSGK_Bot</a>。 
