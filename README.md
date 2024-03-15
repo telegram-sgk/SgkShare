@@ -365,3 +365,11 @@
 
 
 社工库地址：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DiDiSGK_Bot</a>。 
+
+
+### X-ray社工库
+
+支持发送【姓名、电话或身份证】进行查询，返回的结果有学习通和支付宝，试了下，信息少但还算准确，支持签到获取积分，解锁结果需要使用积分。
+
+
+社工库账号：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Xraysgk_bot</a>。 
